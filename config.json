@@ -1,0 +1,23 @@
+{
+    "bot": {
+        "token": "MTAxMTE3MDE4NTgwMzIxODk3NA.GBncqf.Q8dXEbUNT-DfKGRWflHzpbbkeSiM2nABG1cEEM",
+        "prefix": "$",
+        "support": "https://discord.gg/thevintage",
+        "permissions": "8"
+    },
+    "members": {
+        "owner": "774855227853373450",
+        "dev": "774855227853373450"
+    },
+    "emoji": {
+        "serverinfo": {
+            "owner": "👑"
+        },
+        "help": {
+            "moderation": "⚒️",
+            "botinfo": "<:Members:1010487676308295760>",
+            "settings": "🔒",
+            "utility": "<a:ADanceyDance:1013638745641205781>"
+        }
+    }
+}
