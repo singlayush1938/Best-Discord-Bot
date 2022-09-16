@@ -26,7 +26,7 @@
  ## Steps To Start Bot 
  1. Clone The Repo using `git clone https://github.com/singlayush1938/Best-Discord-Bot`.
  2. Get Discord Bot Token From [Bot Token Docs](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token).
- 3. Put All Values in [sampConfig.json](https://github.com/singlayush1938/Best-Discord-Bot/blob/main/config.json) file.
+ 3. Put All Values in [config.json](https://github.com/singlayush1938/Best-Discord-Bot/blob/main/config.json) file.
  4. Run `npm install` To Download All packages.
  5. To Start Bot Run`node Index.js`.
 
